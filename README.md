@@ -1,2 +1,2 @@
 # sine
- A sine wave plugin for the brainsatplay library
+A basic sine wave generator for the brainsatplay library
